@@ -1,0 +1,13 @@
+C:\Users\Mawijeta\Desktop\Game SDK\obj\x86\Debug\fesbGameSDK.BGL.resources
+C:\Users\Mawijeta\Desktop\Game SDK\obj\x86\Debug\fesbGameSDK.Help.resources
+C:\Users\Mawijeta\Desktop\Game SDK\obj\x86\Debug\fesbGameSDK.Highscore.resources
+C:\Users\Mawijeta\Desktop\Game SDK\obj\x86\Debug\fesbGameSDK.csproj.GenerateResource.Cache
+C:\Users\Mawijeta\Desktop\Game SDK\obj\x86\Debug\fesbGameSDK.csproj.CoreCompileInputs.cache
+C:\Users\Mawijeta\Desktop\Game SDK\bin\Debug\fesbGameSDK.exe.config
+C:\Users\Mawijeta\Desktop\Game SDK\bin\Debug\fesbGameSDK.xml
+C:\Users\Mawijeta\Desktop\Game SDK\bin\Debug\fesbGameSDK.exe
+C:\Users\Mawijeta\Desktop\Game SDK\bin\Debug\fesbGameSDK.pdb
+C:\Users\Mawijeta\Desktop\Game SDK\obj\x86\Debug\fesbGameSDK.Properties.Resources.resources
+C:\Users\Mawijeta\Desktop\Game SDK\obj\x86\Debug\fesbGameSDK.exe
+C:\Users\Mawijeta\Desktop\Game SDK\obj\x86\Debug\fesbGameSDK.pdb
+C:\Users\Mawijeta\Desktop\Game SDK\obj\x86\Debug\fesbGameSDK.csprojResolveAssemblyReference.cache

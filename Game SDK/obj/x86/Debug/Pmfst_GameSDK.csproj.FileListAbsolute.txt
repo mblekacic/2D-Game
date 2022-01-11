@@ -1,0 +1,759 @@
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\backgrounds\bedroom1.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\backgrounds\bedroom2.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\backgrounds\football-field.jpg
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\backgrounds\forest.jpg
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\backgrounds\hay_field.jpg
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\backgrounds\kitchen.jpg
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\backgrounds\space2.png
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\backgrounds\woods.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sky\b1.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sky\b2.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sky\b3.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sky\p.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sky\r1.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sky\r2.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sky\ss1.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sky\ss2.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\alonzo.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\banana.png
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\baseball1.png
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\bat1-a.png
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\bat1-b.png
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\boy4-walking-a.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\boy4-walking-b.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\boy4-walking-c.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\boy4-walking-d.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\boy4-walking-e.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\cat.png
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\cat2.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\cat3.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\dog2-b.png
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\dog2-c.png
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\helicopter.png
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\lightning2.png
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\monkey1-L.png
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\monkey1-R.png
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\monkey1.png
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\paddleh.png
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\parrot1-a.png
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\parrot1-b.png
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\reket1.png
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\reket2.png
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\sprites\spaceship.png
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\dkrpan\Desktop\Game SDK byob v13 - Pong\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\dkrpan\Desktop\Game SDK byob v14\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\dkrpan\Desktop\Game SDK byob v14\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\backgrounds\bedroom1.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\backgrounds\bedroom2.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\backgrounds\football-field.jpg
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\backgrounds\forest.jpg
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\backgrounds\hay_field.jpg
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\backgrounds\kitchen.jpg
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\backgrounds\space2.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\backgrounds\woods.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sky\b1.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sky\b2.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sky\b3.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sky\p.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sky\r1.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sky\r2.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sky\ss1.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sky\ss2.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\alonzo.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\banana.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\baseball1.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\bat1-a.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\bat1-b.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\boy4-walking-a.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\boy4-walking-b.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\boy4-walking-c.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\boy4-walking-d.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\boy4-walking-e.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\cat.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\cat2.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\cat3.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\dog2-b.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\dog2-c.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\helicopter.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\lightning2.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\monkey1-L.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\monkey1-R.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\monkey1.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\paddleh.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\parrot1-a.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\parrot1-b.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\reket1.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\reket2.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\sprites\spaceship.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\dkrpan\Desktop\Game SDK byob v14\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\dkrpan\Desktop\Game SDK byob v14\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\dkrpan\Desktop\Game SDK byob v14\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\dkrpan\Desktop\Game SDK byob v14\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\dkrpan\Desktop\Game SDK byob v14\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\backgrounds\bedroom1.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\backgrounds\bedroom2.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\backgrounds\football-field.jpg
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\backgrounds\forest.jpg
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\backgrounds\hay_field.jpg
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\backgrounds\kitchen.jpg
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\backgrounds\space2.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\backgrounds\woods.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sky\b1.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sky\b2.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sky\b3.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sky\p.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sky\r1.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sky\r2.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sky\ss1.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sky\ss2.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\alonzo.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\banana.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\baseball1.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\bat1-a.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\bat1-b.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\boy4-walking-a.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\boy4-walking-b.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\boy4-walking-c.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\boy4-walking-d.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\boy4-walking-e.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\cat.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\cat2.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\cat3.gif
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\dog2-b.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\dog2-c.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\helicopter.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\lightning2.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\monkey1-L.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\monkey1-R.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\monkey1.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\paddleh.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\parrot1-a.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\parrot1-b.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\reket1.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\reket2.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\sprites\spaceship.png
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\dkrpan\Desktop\Game SDK byob v14 - help\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\Pmfst_GameSDK.exe.config
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\Pmfst_GameSDK.XML
+E:\T\_oop\spoji\Game SDK byob v15 - help\obj\x86\Debug\Pmfst_GameSDK.exe
+E:\T\_oop\spoji\Game SDK byob v15 - help\obj\x86\Debug\Pmfst_GameSDK.pdb
+E:\T\_oop\spoji\Game SDK byob v15 - help\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+E:\T\_oop\spoji\Game SDK byob v15 - help\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+E:\T\_oop\spoji\Game SDK byob v15 - help\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+E:\T\_oop\spoji\Game SDK byob v15 - help\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\backgrounds\bedroom1.gif
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\backgrounds\bedroom2.gif
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\backgrounds\football-field.jpg
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\backgrounds\forest.jpg
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\backgrounds\hay_field.jpg
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\backgrounds\kitchen.jpg
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\backgrounds\space2.png
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\backgrounds\woods.gif
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sky\b1.gif
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sky\b2.gif
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sky\b3.gif
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sky\p.gif
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sky\r1.gif
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sky\r2.gif
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sky\ss1.gif
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sky\ss2.gif
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\alonzo.gif
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\banana.png
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\baseball1.png
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\bat1-a.png
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\bat1-b.png
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\boy4-walking-a.gif
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\boy4-walking-b.gif
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\boy4-walking-c.gif
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\boy4-walking-d.gif
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\boy4-walking-e.gif
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\cat.png
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\cat2.gif
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\cat3.gif
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\dog2-b.png
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\dog2-c.png
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\helicopter.png
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\lightning2.png
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\monkey1-L.png
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\monkey1-R.png
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\monkey1.png
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\paddleh.png
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\parrot1-a.png
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\parrot1-b.png
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\reket1.png
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\reket2.png
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\spaceship.png
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\Pmfst_GameSDK.exe
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\Pmfst_GameSDK.pdb
+E:\T\_oop\spoji\Game SDK byob v15 - help\bin\Debug\sprites\sheep01.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\backgrounds\bedroom1.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\backgrounds\bedroom2.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\backgrounds\football-field.jpg
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\backgrounds\forest.jpg
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\backgrounds\hay_field.jpg
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\backgrounds\kitchen.jpg
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\backgrounds\space2.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\backgrounds\woods.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sky\b1.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sky\b2.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sky\b3.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sky\p.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sky\r1.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sky\r2.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sky\ss1.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sky\ss2.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\alonzo.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\banana.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\baseball1.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\bat1-a.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\bat1-b.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\boy4-walking-a.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\boy4-walking-b.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\boy4-walking-c.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\boy4-walking-d.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\boy4-walking-e.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\cat.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\cat2.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\cat3.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\dog2-b.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\dog2-c.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\helicopter.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\lightning2.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\monkey1-L.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\monkey1-R.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\monkey1.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\paddleh.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\parrot1-a.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\parrot1-b.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\reket1.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\reket2.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\sheep01.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\sprites\spaceship.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\Divna\Desktop\Game SDK byob v15 - help\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\backgrounds\bedroom1.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\backgrounds\bedroom2.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\backgrounds\football-field.jpg
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\backgrounds\forest.jpg
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\backgrounds\hay_field.jpg
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\backgrounds\kitchen.jpg
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\backgrounds\space2.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\backgrounds\woods.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sky\b1.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sky\b2.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sky\b3.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sky\p.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sky\r1.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sky\r2.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sky\ss1.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sky\ss2.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\alonzo.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\banana.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\baseball1.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\bat1-a.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\bat1-b.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\boy4-walking-a.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\boy4-walking-b.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\boy4-walking-c.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\boy4-walking-d.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\boy4-walking-e.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\cat.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\cat2.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\cat3.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\dog2-b.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\dog2-c.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\helicopter.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\lightning2.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\monkey1-L.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\monkey1-R.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\monkey1.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\paddleh.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\parrot1-a.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\parrot1-b.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\reket1.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\reket2.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\sheep01.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\spaceship.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\backgrounds\space7.jpg
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\falcon.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\tie.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\explosion.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - proba\bin\Debug\sprites\laser.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\backgrounds\bedroom1.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\backgrounds\bedroom2.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\backgrounds\football-field.jpg
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\backgrounds\forest.jpg
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\backgrounds\hay_field.jpg
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\backgrounds\kitchen.jpg
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\backgrounds\space7.jpg
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\backgrounds\space2.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\backgrounds\woods.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sky\b1.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sky\b2.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sky\b3.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sky\p.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sky\r1.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sky\r2.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sky\ss1.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sky\ss2.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\alonzo.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\banana.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\baseball1.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\bat1-a.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\bat1-b.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\boy4-walking-a.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\boy4-walking-b.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\boy4-walking-c.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\boy4-walking-d.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\boy4-walking-e.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\cat.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\cat2.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\cat3.gif
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\dog2-b.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\dog2-c.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\explosion.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\falcon.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\helicopter.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\laser.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\lightning2.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\monkey1-L.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\monkey1-R.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\monkey1.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\paddleh.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\parrot1-a.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\parrot1-b.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\reket1.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\reket2.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\sheep01.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\spaceship.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\tie.png
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\Divna\Desktop\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\boss.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\backgrounds\bedroom1.gif
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\backgrounds\bedroom2.gif
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\backgrounds\football-field.jpg
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\backgrounds\forest.jpg
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\backgrounds\hay_field.jpg
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\backgrounds\kitchen.jpg
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\backgrounds\space7.jpg
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\backgrounds\space2.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\backgrounds\woods.gif
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sky\b1.gif
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sky\b2.gif
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sky\b3.gif
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sky\p.gif
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sky\r1.gif
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sky\r2.gif
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sky\ss1.gif
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sky\ss2.gif
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\alonzo.gif
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\banana.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\baseball1.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\bat1-a.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\bat1-b.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\boss.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\boy4-walking-a.gif
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\boy4-walking-b.gif
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\boy4-walking-c.gif
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\boy4-walking-d.gif
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\boy4-walking-e.gif
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\cat.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\cat2.gif
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\cat3.gif
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\dog2-b.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\dog2-c.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\explosion.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\falcon.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\helicopter.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\laser.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\lightning2.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\monkey1-L.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\monkey1-R.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\monkey1.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\paddleh.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\parrot1-a.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\parrot1-b.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\reket1.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\reket2.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\sheep01.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\spaceship.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\sprites\tie.png
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\Ulic\Desktop\Game SDK byob v15 - help - v07 ver2\Game SDK byob v15 - help - v07 ver2\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\Divna\Desktop\Game SDK\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\Divna\Desktop\Game SDK\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\backgrounds\bedroom1.gif
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\backgrounds\bedroom2.gif
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\backgrounds\football-field.jpg
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\backgrounds\forest.jpg
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\backgrounds\hay_field.jpg
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\backgrounds\kitchen.jpg
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\backgrounds\space7.jpg
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\backgrounds\space2.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\backgrounds\woods.gif
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sky\b1.gif
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sky\b2.gif
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sky\b3.gif
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sky\p.gif
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sky\r1.gif
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sky\r2.gif
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sky\ss1.gif
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sky\ss2.gif
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\alonzo.gif
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\banana.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\baseball1.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\bat1-a.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\bat1-b.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\boss.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\boy4-walking-a.gif
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\boy4-walking-b.gif
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\boy4-walking-c.gif
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\boy4-walking-d.gif
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\boy4-walking-e.gif
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\cat.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\cat2.gif
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\cat3.gif
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\dog2-b.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\dog2-c.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\explosion.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\falcon.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\helicopter.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\laser.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\lightning2.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\monkey1-L.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\monkey1-R.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\monkey1.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\paddleh.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\parrot1-a.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\parrot1-b.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\reket1.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\reket2.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\sheep01.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\spaceship.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\sprites\tie.png
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\Divna\Desktop\Game SDK\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\Divna\Desktop\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\Divna\Desktop\Game SDK\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\Divna\Desktop\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\Divna\Desktop\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\backgrounds\bedroom1.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\backgrounds\bedroom2.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\backgrounds\football-field.jpg
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\backgrounds\forest.jpg
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\backgrounds\hay_field.jpg
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\backgrounds\kitchen.jpg
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\backgrounds\space7.jpg
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\backgrounds\space2.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\backgrounds\woods.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sky\b1.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sky\b2.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sky\b3.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sky\p.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sky\r1.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sky\r2.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sky\ss1.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sky\ss2.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\alonzo.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\banana.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\baseball1.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\bat1-a.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\bat1-b.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\boss.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\boy4-walking-a.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\boy4-walking-b.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\boy4-walking-c.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\boy4-walking-d.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\boy4-walking-e.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\cat.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\cat2.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\cat3.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\dog2-b.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\dog2-c.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\explosion.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\falcon.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\helicopter.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\laser.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\lightning2.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\monkey1-L.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\monkey1-R.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\monkey1.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\paddleh.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\parrot1-a.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\parrot1-b.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\reket1.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\reket2.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\sheep01.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\spaceship.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\sprites\tie.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 4\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\backgrounds\bedroom1.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\backgrounds\bedroom2.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\backgrounds\football-field.jpg
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\backgrounds\forest.jpg
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\backgrounds\hay_field.jpg
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\backgrounds\kitchen.jpg
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\backgrounds\space7.jpg
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\backgrounds\space2.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\backgrounds\woods.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sky\b1.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sky\b2.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sky\b3.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sky\p.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sky\r1.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sky\r2.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sky\ss1.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sky\ss2.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\alonzo.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\banana.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\baseball1.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\bat1-a.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\bat1-b.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\boss.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\boy4-walking-a.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\boy4-walking-b.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\boy4-walking-c.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\boy4-walking-d.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\boy4-walking-e.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\cat.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\cat2.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\cat3.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\dog2-b.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\dog2-c.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\explosion.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\falcon.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\helicopter.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\laser.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\lightning2.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\monkey1-L.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\monkey1-R.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\monkey1.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\paddleh.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\parrot1-a.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\parrot1-b.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\reket1.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\reket2.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\sheep01.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\spaceship.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\sprites\tie.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\dkrpan\Desktop\v07 - proba paint\proba 5\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\backgrounds\bedroom1.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\backgrounds\bedroom2.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\backgrounds\football-field.jpg
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\backgrounds\forest.jpg
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\backgrounds\hay_field.jpg
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\backgrounds\kitchen.jpg
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\backgrounds\space7.jpg
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\backgrounds\space2.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\backgrounds\woods.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sky\b1.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sky\b2.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sky\b3.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sky\p.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sky\r1.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sky\r2.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sky\ss1.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sky\ss2.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\alonzo.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\banana.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\baseball1.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\bat1-a.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\bat1-b.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\boss.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\boy4-walking-a.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\boy4-walking-b.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\boy4-walking-c.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\boy4-walking-d.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\boy4-walking-e.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\cat.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\cat2.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\cat3.gif
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\dog2-b.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\dog2-c.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\explosion.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\falcon.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\helicopter.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\laser.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\lightning2.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\monkey1-L.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\monkey1-R.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\monkey1.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\paddleh.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\parrot1-a.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\parrot1-b.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\reket1.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\reket2.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\sheep01.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\spaceship.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\sprites\tie.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\backgrounds\game_over.png
+C:\Users\dkrpan\Desktop\v07 - proba paint\vjezbe 08 - rjesenje\Game SDK\bin\Debug\backgrounds\game_won.png
+C:\Users\vinkoblekacic\Desktop\OOP v8\vjezbe 08 - pocetno\Game SDK\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\vinkoblekacic\Desktop\OOP v8\vjezbe 08 - pocetno\Game SDK\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\vinkoblekacic\Desktop\OOP v8\vjezbe 08 - pocetno\Game SDK\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\vinkoblekacic\Desktop\OOP v8\vjezbe 08 - pocetno\Game SDK\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\vinkoblekacic\Desktop\OOP v8\vjezbe 08 - pocetno\Game SDK\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\vinkoblekacic\Desktop\OOP v8\vjezbe 08 - pocetno\Game SDK\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\vinkoblekacic\Desktop\OOP v8\vjezbe 08 - pocetno\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\vinkoblekacic\Desktop\OOP v8\vjezbe 08 - pocetno\Game SDK\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\vinkoblekacic\Desktop\OOP v8\vjezbe 08 - pocetno\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Postavke.resources
+C:\Users\vinkoblekacic\Desktop\OOP v8\vjezbe 08 - pocetno\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\vinkoblekacic\Desktop\OOP v8\vjezbe 08 - pocetno\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\Ena\Desktop\vjezbe 08 - pocetno\Game SDK\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\Ena\Desktop\vjezbe 08 - pocetno\Game SDK\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\Ena\Desktop\vjezbe 08 - pocetno\Game SDK\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\Ena\Desktop\vjezbe 08 - pocetno\Game SDK\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\Ena\Desktop\vjezbe 08 - pocetno\Game SDK\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\Ena\Desktop\vjezbe 08 - pocetno\Game SDK\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\Ena\Desktop\vjezbe 08 - pocetno\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\Ena\Desktop\vjezbe 08 - pocetno\Game SDK\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\Ena\Desktop\vjezbe 08 - pocetno\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Postavke.resources
+C:\Users\Ena\Desktop\vjezbe 08 - pocetno\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\Ena\Desktop\vjezbe 08 - pocetno\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\Ena\Desktop\ZdravaHrana\Game SDK\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\Ena\Desktop\ZdravaHrana\Game SDK\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\Ena\Desktop\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\Ena\Desktop\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\Ena\Desktop\ZdravaHrana\Game SDK\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\Ena\Desktop\ZdravaHrana\Game SDK\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\Ena\Desktop\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\Ena\Desktop\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\Ena\Desktop\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Postavke.resources
+C:\Users\Ena\Desktop\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\Ena\Desktop\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\Ena\Downloads\ZdravaHrana\Game SDK\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\Ena\Downloads\ZdravaHrana\Game SDK\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\Ena\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\Ena\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\Ena\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\Ena\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\Ena\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Postavke.resources
+C:\Users\Ena\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\Ena\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\Ena\Downloads\ZdravaHrana\Game SDK\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\Ena\Downloads\ZdravaHrana\Game SDK\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\Ena\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Highscore.resources
+C:\Users\vinkoblekacic\Downloads\ZdravaHrana\Game SDK\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\vinkoblekacic\Downloads\ZdravaHrana\Game SDK\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\vinkoblekacic\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\vinkoblekacic\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\vinkoblekacic\Downloads\ZdravaHrana\Game SDK\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\vinkoblekacic\Downloads\ZdravaHrana\Game SDK\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\vinkoblekacic\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\vinkoblekacic\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\vinkoblekacic\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Highscore.resources
+C:\Users\vinkoblekacic\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Postavke.resources
+C:\Users\vinkoblekacic\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\vinkoblekacic\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\vinkoblekacic\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Help.resources
+C:\Users\Packard\Downloads\ZdravaHrana\Game SDK\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\Packard\Downloads\ZdravaHrana\Game SDK\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\Packard\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\Packard\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.pdb
+C:\Users\Packard\Downloads\ZdravaHrana\Game SDK\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\Packard\Downloads\ZdravaHrana\Game SDK\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\Packard\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\Packard\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\Packard\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Help.resources
+C:\Users\Packard\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Highscore.resources
+C:\Users\Packard\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Postavke.resources
+C:\Users\Packard\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\Packard\Downloads\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\Mawijeta\Downloads\ZdravaHrana (2)\ZdravaHrana\Game SDK\bin\Debug\Pmfst_GameSDK.exe.config
+C:\Users\Mawijeta\Downloads\ZdravaHrana (2)\ZdravaHrana\Game SDK\bin\Debug\Pmfst_GameSDK.XML
+C:\Users\Mawijeta\Downloads\ZdravaHrana (2)\ZdravaHrana\Game SDK\bin\Debug\Pmfst_GameSDK.exe
+C:\Users\Mawijeta\Downloads\ZdravaHrana (2)\ZdravaHrana\Game SDK\bin\Debug\Pmfst_GameSDK.pdb
+C:\Users\Mawijeta\Downloads\ZdravaHrana (2)\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csprojResolveAssemblyReference.cache
+C:\Users\Mawijeta\Downloads\ZdravaHrana (2)\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.BGL.resources
+C:\Users\Mawijeta\Downloads\ZdravaHrana (2)\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Help.resources
+C:\Users\Mawijeta\Downloads\ZdravaHrana (2)\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Highscore.resources
+C:\Users\Mawijeta\Downloads\ZdravaHrana (2)\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.Properties.Resources.resources
+C:\Users\Mawijeta\Downloads\ZdravaHrana (2)\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csproj.GenerateResource.Cache
+C:\Users\Mawijeta\Downloads\ZdravaHrana (2)\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.csproj.CoreCompileInputs.cache
+C:\Users\Mawijeta\Downloads\ZdravaHrana (2)\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.exe
+C:\Users\Mawijeta\Downloads\ZdravaHrana (2)\ZdravaHrana\Game SDK\obj\x86\Debug\Pmfst_GameSDK.pdb
